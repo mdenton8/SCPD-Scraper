@@ -7,7 +7,6 @@ import errno
 import itertools
 from subprocess import Popen
 from mechanize import Browser
-from BeautifulSoup import BeautifulSoup
 from multiprocessing import Pool
 
 
